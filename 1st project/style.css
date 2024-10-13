@@ -1,0 +1,84 @@
+.main_div{
+background-color:rgb(234,182,118,0.4);
+height:700px;;
+width:100%;
+
+}
+
+.heading{
+    font-size:40px;
+    text-align:center;
+    padding-bottom: 10px;;
+}
+
+
+.blog{
+    height:550px;
+    width:400px;
+    border:1px black solid;
+    overflow: hidden;
+    margin:auto;
+    margin-bottom:30px;
+    border-radius: 10px;
+    
+}
+.blog_img{
+   
+    height:250px;
+    width:400px;
+    object-fit:fill;
+    border-radius: 10px;
+}
+
+.footer{
+    background-color: rgb(0,0,0,0.8);
+    color:white;
+    font-size:25px;
+    text-align:center;
+}
+.button{
+    
+    background-color:orange;
+    width:200px;
+    height:30px;
+    border-radius:25px;
+    margin:10px 0px 5px 10px;
+}
+.button p{
+    text-align:center;
+    color:white;
+    font-size:30px;
+    margin:0px;
+    
+}
+.content_heading{
+    font-size:25px;
+    padding: 0px 10px 0px 20px;
+    font-weight: 700;
+    margin:0;
+}
+.description{
+    font-size:20px;
+    font-weight:400;
+    padding:15px 10px 15px 20px;
+    margin:0;
+    height:fit-content;
+    width:fit-content;
+}
+
+.img{
+    
+    height:100px;
+    border-radius:25px;
+    width:100px;
+   position:absolute;
+    
+}
+.developer_name{
+    color:gray;
+    font-size:20px;
+    margin:0px;
+    padding:20px 0px 0px 105px;
+    
+}
+
